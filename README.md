@@ -1,10 +1,13 @@
 # mojo-cnc-shield
 a shield to connect mojo V3 and rpi4 by spi. use 74LVC and 74HCT for logic level shifting. 
- 
-## How to use：
-open https://lceda.cn/
-At editor, Click the document icon on the topbar, via "Document" > "Open" > "EasyEDA Source", and select json file, then open it at the editor.
 
-## references:
-firmware for mojo v3: https://github.com/sleepybishop/mojo_hostmot2
+## Firmware and Linuxcnc:
+firmware: https://github.com/feversky/mojo_hostmot2
+
 modified linuxcnc: https://github.com/sleepybishop/linuxcnc/tree/fishybearG-master
+
+## the PCB
+<img src='images\pcb.jpg' width='500px'/>
+
+## the real thing
+<img src='images\assembly.jpg' width='500px'/>
